@@ -21,7 +21,7 @@
     "start": "npm start",
     "eject": "react-scripts eject",
      "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build"
   },
   "eslintConfig": {
     "extends": [
