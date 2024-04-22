@@ -17,7 +17,7 @@
     "url": "https://github.com/thepranaygupta/react-tailwind-css-starter-pack/issues"
   },
   "scripts": {
-     "build": "npm run build",
+     "build": "npm build",
     "start": "npm start",
     "eject": "react-scripts eject",
      "start": "react-scripts start",
