@@ -19,7 +19,7 @@
   "scripts": {
      "build": "npm run build",
     "start": "npm start",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
      "start": "react-scripts start",
     "build": "react-scripts build",
   },
