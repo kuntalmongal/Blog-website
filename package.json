@@ -1,4 +1,12 @@
-{
+{ "scripts": {
+     "build": "npm run build",
+    "start": "npm start",
+    "eject": "react-scripts eject",
+     "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+
+
   "name": "react-tailwind-css-starter-pack",
   "version": "0.1.0",
   "private": true,
@@ -16,13 +24,7 @@
   "bugs": {
     "url": "https://github.com/thepranaygupta/react-tailwind-css-starter-pack/issues"
   },
-  "scripts": {
-     "build": "npm run build",
-    "start": "npm start",
-    "eject": "react-scripts eject",
-     "start": "react-scripts start",
-    "build": "react-scripts build"
-  },
+ 
   "eslintConfig": {
     "extends": [
       "react-app",
